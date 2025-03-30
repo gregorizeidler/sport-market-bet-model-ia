@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+scikit-learn
+shap
+matplotlib
+seaborn
+plotly
+imblearn
+xgboost
+pickle-mixin
+openpyxl
+xlrd
+openai
+lime
