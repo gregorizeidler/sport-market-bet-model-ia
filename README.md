@@ -179,12 +179,6 @@ We welcome enterprise and community contributions. To contribute:
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-## 📞 Support
-
-- **Documentation**: [Project Wiki](#)
-- **Issues**: Submit via [GitHub Issues](https://github.com/your-username/big-data-bet-sports-market/issues)
-- **Commercial Support**: Contact us at support@example.com
-
 ---
 
 <p align="center">
