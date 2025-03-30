@@ -150,8 +150,8 @@ Access the application via the Streamlit-provided URL (typically http://localhos
 - `--server.headless`: Run without opening a browser
 
 ## 🎥 Demonstration Video
-Para ver a plataforma em ação, incluindo todos os modelos e recursos de IA:
-- [📺 Demonstração Completa](https://drive.google.com/file/d/1sqYFQHfOaASupKKBar_LGKHPjiL5NSsk/view?usp=sharing)
+To see the platform in action, including all models and AI features:
+- [📺 Complete Demonstration](https://drive.google.com/file/d/1sqYFQHfOaASupKKBar_LGKHPjiL5NSsk/view?usp=sharing)
 
 ## 🤝 How to Contribute
 
